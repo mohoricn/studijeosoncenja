@@ -1925,15 +1925,15 @@ a {
     padding-top: 2rem;
   }
 }
-.cid-u8m4N4JzFC {
+.cid-vsxmw6hv3f {
   padding-top: 6rem;
   padding-bottom: 6rem;
   background-color: #ffffff;
 }
-.cid-u8m4N4JzFC .mbr-fallback-image.disabled {
+.cid-vsxmw6hv3f .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-u8m4N4JzFC .mbr-fallback-image {
+.cid-vsxmw6hv3f .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1942,40 +1942,7 @@ a {
   position: absolute;
   top: 0;
 }
-.cid-u8m4N4JzFC .item {
-  display: flex;
-  align-items: center;
-  margin-bottom: 4rem;
-  flex-direction: column;
-}
-.cid-u8m4N4JzFC .icon-box {
-  margin-bottom: 1rem;
-  text-align: center;
-  display: inline-block;
-}
-.cid-u8m4N4JzFC .text-box {
-  text-align: center;
-}
-.cid-u8m4N4JzFC span {
-  font-size: 10rem;
-  color: #6592e6;
-  font-weight: bold;
-  display: block;
-}
-@media (max-width: 991px) {
-  .cid-u8m4N4JzFC .card {
-    margin-bottom: 2rem;
-  }
-  .cid-u8m4N4JzFC .card-wrapper {
-    margin-bottom: 2rem;
-  }
-}
-@media (max-width: 768px) {
-  .cid-u8m4N4JzFC span {
-    font-size: 21vw;
-  }
-}
-.cid-u8m4N4JzFC .item .icon-box .step-number {
+.cid-vsxmw6hv3f .mbr-section-title {
   color: #ffad00;
 }
 .cid-u848p1ioZ1 {
@@ -2015,6 +1982,12 @@ a {
   .cid-u848p1ioZ1 .card-wrapper {
     padding: 3rem 1rem;
   }
+}
+.cid-vsxmRZ2svs {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #232323;
+  overflow: hidden;
 }
 .cid-v2aLvwnbuQ {
   z-index: 1000;
